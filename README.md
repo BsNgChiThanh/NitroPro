@@ -1,7 +1,7 @@
 # Nitro Pro chỉnh sửa PDF
-  - Nitro Pro Enterprise (Repack) là một bộ công cụ mạnh mẽ để tạo và chỉnh sửa các tệp PDF.
-  - Nitro Pro – một chương trình thay thế cho Adobe Acrobat, cho phép bạn xử lý hàng loạt tệp và quét tài liệu trực tiếp sang PDF, có khả năng kết hợp nhiều tệp thành một, chuyển đổi tài liệu sang PDF từ hơn ba trăm loại tệp khác nhau.
-  - Hỗ trợ xuất file từ nhiều ứng dụng văn phòng khác nhau như Microsoft Word, Excel và PowerPoint.
+- Nitro Pro Enterprise (Repack) là một bộ công cụ mạnh mẽ để tạo và chỉnh sửa các tệp PDF.
+- Nitro Pro – một chương trình thay thế cho Adobe Acrobat, cho phép bạn xử lý hàng loạt tệp và quét tài liệu trực tiếp sang PDF, có khả năng kết hợp nhiều tệp thành một, chuyển đổi tài liệu sang PDF từ hơn ba trăm loại tệp khác nhau.
+- Hỗ trợ xuất file từ nhiều ứng dụng văn phòng khác nhau như Microsoft Word, Excel và PowerPoint.
 - Nội dung của các tệp được tạo có thể được mã hóa với mức độ bảo vệ cao (40 hoặc 128 bit). Giải pháp được đề xuất cung cấp giải pháp thay thế tuyệt vời cho phần mềm Adobe Acrobat phổ biến và cung cấp mọi thứ bạn cần để chuẩn bị tài liệu kinh doanh ở định dạng PDF. Các tính năng chính của chương trình:
   - Tạo tài liệu PDF từ hơn 300 loại tệp
   - Chuyển đổi và hợp nhất nhiều tệp thành một tài liệu PDF
@@ -31,3 +31,7 @@
   - Sắp xếp và quản lý bình luận
   - Gửi tài liệu để in trên máy in
   - Giao diện người dùng đẹp và phong cách, theo phong cách của Microsoft Office 2007
+  - ![image](https://github.com/BsNgChiThanh/NitroPro/assets/82578024/2e98acb3-ecb7-4f3b-a658-01b1291df2f7)
+  - ![image](https://github.com/BsNgChiThanh/NitroPro/assets/82578024/43f0e57a-56b5-4c52-a346-98298366403a)
+
+
