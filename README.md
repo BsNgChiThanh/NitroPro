@@ -34,4 +34,9 @@
   - ![image](https://github.com/BsNgChiThanh/NitroPro/assets/82578024/2e98acb3-ecb7-4f3b-a658-01b1291df2f7)
   - ![image](https://github.com/BsNgChiThanh/NitroPro/assets/82578024/43f0e57a-56b5-4c52-a346-98298366403a)
 
+## Cài đặt:
+- Download file: https://raw.githubusercontent.com/BsNgChiThanh/NitroPro/IMP/_Silent%20Install.cmd và **Run As Administrator**
+- ![image](https://github.com/BsNgChiThanh/NitroPro/assets/82578024/f6893b31-2e64-418e-a2be-8810dc799a01)
+- Download và chạy file cài đặt là xaong. File install: https://1drv.ms/u/s!AuSa--rFNj52gZo_DMi9rHB8phK2TA?e=F8Bdhv
+- Done!
 
