@@ -39,4 +39,3 @@
 - ![image](https://github.com/BsNgChiThanh/NitroPro/assets/82578024/f6893b31-2e64-418e-a2be-8810dc799a01)
 - Download và chạy file cài đặt là xong. File install: [bấm vào đây](https://public.dm.files.1drv.com/y4m-oK_5lKIQX8Yrs7-p0CgjXcrwgIcgQAwPH6VzV59qU51kh7nAMPx-lHAr5-Nx9meBXkz4lxuvaSsFFUXkhver6Xc422PACccmXOYHJmJSMskLF5diDrjC4m-RIIRtX3xv2ptsEOtWU6pVo22lEhiMyeIJ3UOTAvaBwQ-kK5FSdVmF14Y83WoXdzbntql8wRqQosqiK1qfbY40morqFJTQSZK0hFhL1OAK5nAVkeGrwU) hoặc [vào đây](https://1drv.ms/u/s!AuSa--rFNj52gZo_DMi9rHB8phK2TA?e=F8Bdhv)
 - Done!
-
